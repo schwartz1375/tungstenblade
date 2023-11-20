@@ -7,6 +7,7 @@ __pycache__/
 
 # dotenv
 .env/
+.DS_Store
 
 # ML
 catboost_info_*/
